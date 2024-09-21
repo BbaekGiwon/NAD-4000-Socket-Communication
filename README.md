@@ -1,5 +1,7 @@
 # NAD-4000-Socket-Communication
 Socket Communication program for Metal Detector NAD-4000
+### socketClient_v6_1.py is latest version
+### Please read documents in Note directory
 
 ## How to use
 1. Write IP and Port
